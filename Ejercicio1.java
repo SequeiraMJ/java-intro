@@ -2,12 +2,15 @@
 /*
  * Ejercicio 1
  * Crear un proyecto de Java y definir al menos 6 variables en tu IDE de distintos tipos de datos.
+ * 
+ * Ejercicio 2
+ * ¿Recuerdas las variables que creaste en el ejercicio anterior? Ahora deberás asignarles un valor.
  */
 
 public class Ejercicio1 {
     public static void main (String[] args) {
         System.out.println("Ejercicio 1 declaración de variables");
-        
+        System.out.println("Ejercicio 2 asignar valores a las variables");
         int numero = 23456;
         long numero2 = 2345678912345L;
         float numero3 = 123.23456F;
